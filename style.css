@@ -1,8 +1,18 @@
-body{
+#body_index{
+    background-color: azure;
+}
+
+#body_genesis{
     background-color: rgb(50, 50, 50);
+}
+
+#body_tplink{
+    background-color: azure;
+    color: aqua;
 }
 
 h1{
     background-color: red;
     border: 1px, black, dotted;
 }
+
