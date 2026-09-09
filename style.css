@@ -104,3 +104,16 @@ body {
     height: auto;
     border-radius: 10px;
 }
+.return-button {
+    display: inline-block;
+    margin-top: 25px;
+    padding: 12px 25px;
+    background-color: #333;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+}
+
+.return-button:hover {
+    background-color: #555;
+}
